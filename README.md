@@ -69,7 +69,7 @@ git branch
 
 Commit registra as alterações feitas nos arquivos que foram adicionados na área de preparação.
 ```
-git commit -m "feat: adicionar estrutura base do projeto Laravel"
+git commit -m "feat: adicionar estrutura base do projeto Vue.js"
 ```
 
 Renomear a branch atual no GIT para main.
