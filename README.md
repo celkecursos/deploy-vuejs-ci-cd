@@ -1,4 +1,7 @@
-Projeto criado durante o tutorial como realizar o deploy do projeto criado com Vue.js.
+Projeto criado durante o tutorial Como Fazer Deploy CI/CD de Aplicações Vue.js na Hostinger.
+* HOSTINGER COM UM DESCONTÃO!
+* Cupom: CELKE
+* https://celke.com.br/page/hostinger 
 
 ## Requisitos
 
